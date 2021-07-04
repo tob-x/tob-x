@@ -1,4 +1,4 @@
-Salut, I'm @tob-x
+## Salut, I'm @tob-x
 
-tob_708@protonmail.com
-InfoSec, dev
+- tob_708@protonmail.com
+- InfoSec, dev
